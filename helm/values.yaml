@@ -1,4 +1,4 @@
 image:
-  repository: azeshion21/demo-app
+  repository: dhearahma7/demo-app-jenkins
   tag: latest
 replicaCount: 1
